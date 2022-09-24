@@ -9,4 +9,6 @@ public class Company {
 		
 		System.out.println("parent class-integer Arugument Constructor");
 	}
+	static int a;
+	static int b;
 }
